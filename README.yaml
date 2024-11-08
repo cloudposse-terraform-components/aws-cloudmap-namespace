@@ -3,8 +3,6 @@ name: "aws-cloudmap-namespace"
 github_repo: "cloudposse-terraform-components/aws-cloudmap-namespace"
 # Short description of this project
 description: ""
-include:
-  - "docs/terraform.md"
 tags: []
 # Categories of this project
 categories: []
