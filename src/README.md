@@ -2,7 +2,7 @@
 tags:
 ---
 
-# Component: `cloudmap`
+# Component: `cloudmap-namespace`
 
 
 
