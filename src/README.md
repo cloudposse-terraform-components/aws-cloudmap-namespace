@@ -5,10 +5,12 @@ tags:
 # Component: `cloudmap-namespace`
 
 
+## Usage
 
-[<img src="https://cloudposse.com/logo-300x69.svg" height="32" align="right"/>](https://cpco.io/homepage?utm_source=github&utm_medium=readme&utm_campaign=cloudposse-terraform-components/aws-cloudmap-namespace&utm_content=)
 
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+
+
+<!-- markdownlint-disable -->
 ## Requirements
 
 | Name | Version |
@@ -71,4 +73,15 @@ tags:
 | <a name="output_arn"></a> [arn](#output\_arn) | The ARN of the namespace |
 | <a name="output_id"></a> [id](#output\_id) | The ID of the namespace |
 | <a name="output_name"></a> [name](#output\_name) | The name of the namespace |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- markdownlint-restore -->
+
+
+
+## References
+
+
+
+
+
+[<img src="https://cloudposse.com/logo-300x69.svg" height="32" align="right"/>](https://cpco.io/homepage?utm_source=github&utm_medium=readme&utm_campaign=cloudposse-terraform-components/aws-cloudmap-namespace&utm_content=)
+
