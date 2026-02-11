@@ -17,3 +17,9 @@ variable "type" {
     error_message = "Invalid namespace type, must be one of `http` or `private` or `public`"
   }
 }
+
+variable "create_security_group" {
+  type        = bool
+  description = "Create security group"
+  deafult     = false
+}
