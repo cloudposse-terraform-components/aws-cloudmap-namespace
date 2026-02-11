@@ -12,3 +12,8 @@ output "arn" {
   value       = coalesce(one(aws_service_discovery_http_namespace.default[*].arn), one(aws_service_discovery_private_dns_namespace.default[*].arn), one(aws_service_discovery_public_dns_namespace.default[*].arn))
   description = "The ARN of the namespace"
 }
+
+output "security_group_id" {
+  value       = one(aws_security_group.default[*].id)
+  description = "The ID of the security group"
+}
