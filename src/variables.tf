@@ -21,5 +21,5 @@ variable "type" {
 variable "create_security_group" {
   type        = bool
   description = "Create security group"
-  deafult     = false
+  default     = false
 }
